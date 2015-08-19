@@ -1,0 +1,746 @@
+<pkg:package xmlns:pkg="http://schemas.microsoft.com/office/2006/xmlPackage">
+  <pkg:part pkg:name="/_rels/.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="512">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/>
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/diagrams/data1.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.drawingml.diagramData+xml">
+    <pkg:xmlData>
+      <dgm:dataModel xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+        <dgm:ptLst>
+          <dgm:pt modelId="{B83C0775-8AC8-44AA-9B22-8B7921AF66AB}" type="doc">
+            <dgm:prSet loTypeId="urn:microsoft.com/office/officeart/2005/8/layout/default#1" loCatId="list" qsTypeId="urn:microsoft.com/office/officeart/2005/8/quickstyle/simple5" qsCatId="simple" csTypeId="urn:microsoft.com/office/officeart/2005/8/colors/colorful4" csCatId="colorful" phldr="1"/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{F9426077-8CA6-4E1D-9402-6C169A96D94B}">
+            <dgm:prSet phldrT="[Text]"/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:r>
+                  <a:rPr lang="en-US"/>
+                  <a:t>This is a</a:t>
+                </a:r>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{762A8656-80C6-43F4-84B3-3FFA395F45D4}" type="parTrans" cxnId="{BBD5D7F5-7A66-4C67-9FBD-C76F9B621350}">
+            <dgm:prSet/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{C99A4757-6120-4825-A838-1D35083A5E8F}" type="sibTrans" cxnId="{BBD5D7F5-7A66-4C67-9FBD-C76F9B621350}">
+            <dgm:prSet/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{F7189A96-7E7A-4B9C-AB6F-EB53805BEB32}">
+            <dgm:prSet phldrT="[Text]"/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:r>
+                  <a:rPr lang="en-US"/>
+                  <a:t>dynamic</a:t>
+                </a:r>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{489B2F2E-A7AA-4A1B-84C1-036110F5D8F0}" type="parTrans" cxnId="{3BD802CE-9239-4FA7-A20A-7AADC52CF2A4}">
+            <dgm:prSet/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{102AEDB6-FF7F-41D0-AB13-AAAA39BBBC44}" type="sibTrans" cxnId="{3BD802CE-9239-4FA7-A20A-7AADC52CF2A4}">
+            <dgm:prSet/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{D5628C9B-ACAA-43F8-B6F1-7077FCBC1924}">
+            <dgm:prSet phldrT="[Text]"/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:r>
+                  <a:rPr lang="en-US"/>
+                  <a:t>SmartArt diagram</a:t>
+                </a:r>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{EC235ADA-A75E-4E5D-B283-A7960A6E25EA}" type="parTrans" cxnId="{8B18C13A-23F1-4898-AD51-5EC63CD568EF}">
+            <dgm:prSet/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{760601C2-5B53-448A-8EFC-7EA64882F577}" type="sibTrans" cxnId="{8B18C13A-23F1-4898-AD51-5EC63CD568EF}">
+            <dgm:prSet/>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{59CA557F-3BD9-43CD-A00A-BABD38B07A07}" type="pres">
+            <dgm:prSet presAssocID="{B83C0775-8AC8-44AA-9B22-8B7921AF66AB}" presName="diagram" presStyleCnt="0">
+              <dgm:presLayoutVars>
+                <dgm:dir/>
+                <dgm:resizeHandles val="exact"/>
+              </dgm:presLayoutVars>
+            </dgm:prSet>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{0912AB0B-A2D5-4F78-855C-D681371DAD8D}" type="pres">
+            <dgm:prSet presAssocID="{F9426077-8CA6-4E1D-9402-6C169A96D94B}" presName="node" presStyleLbl="node1" presStyleIdx="0" presStyleCnt="3">
+              <dgm:presLayoutVars>
+                <dgm:bulletEnabled val="1"/>
+              </dgm:presLayoutVars>
+            </dgm:prSet>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{86BD0573-6D2B-4161-B070-D0A4DCF405E6}" type="pres">
+            <dgm:prSet presAssocID="{C99A4757-6120-4825-A838-1D35083A5E8F}" presName="sibTrans" presStyleCnt="0"/>
+            <dgm:spPr/>
+          </dgm:pt>
+          <dgm:pt modelId="{ED248F05-7B59-4F61-BF1E-ACB7024A5C17}" type="pres">
+            <dgm:prSet presAssocID="{F7189A96-7E7A-4B9C-AB6F-EB53805BEB32}" presName="node" presStyleLbl="node1" presStyleIdx="1" presStyleCnt="3">
+              <dgm:presLayoutVars>
+                <dgm:bulletEnabled val="1"/>
+              </dgm:presLayoutVars>
+            </dgm:prSet>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+          <dgm:pt modelId="{EF984F55-9A40-4B63-B890-D4515FC93BEA}" type="pres">
+            <dgm:prSet presAssocID="{102AEDB6-FF7F-41D0-AB13-AAAA39BBBC44}" presName="sibTrans" presStyleCnt="0"/>
+            <dgm:spPr/>
+          </dgm:pt>
+          <dgm:pt modelId="{45333262-76AB-4ED0-927B-D2E88A8A19F8}" type="pres">
+            <dgm:prSet presAssocID="{D5628C9B-ACAA-43F8-B6F1-7077FCBC1924}" presName="node" presStyleLbl="node1" presStyleIdx="2" presStyleCnt="3">
+              <dgm:presLayoutVars>
+                <dgm:bulletEnabled val="1"/>
+              </dgm:presLayoutVars>
+            </dgm:prSet>
+            <dgm:spPr/>
+            <dgm:t>
+              <a:bodyPr/>
+              <a:lstStyle/>
+              <a:p>
+                <a:endParaRPr lang="en-US"/>
+              </a:p>
+            </dgm:t>
+          </dgm:pt>
+        </dgm:ptLst>
+        <dgm:cxnLst>
+          <dgm:cxn modelId="{74ED578A-441D-433E-B23D-07DFD90A2A80}" type="presOf" srcId="{F9426077-8CA6-4E1D-9402-6C169A96D94B}" destId="{0912AB0B-A2D5-4F78-855C-D681371DAD8D}" srcOrd="0" destOrd="0" presId="urn:microsoft.com/office/officeart/2005/8/layout/default#1"/>
+          <dgm:cxn modelId="{03C78770-6B14-4DB4-9AE0-0457D642FAF3}" type="presOf" srcId="{D5628C9B-ACAA-43F8-B6F1-7077FCBC1924}" destId="{45333262-76AB-4ED0-927B-D2E88A8A19F8}" srcOrd="0" destOrd="0" presId="urn:microsoft.com/office/officeart/2005/8/layout/default#1"/>
+          <dgm:cxn modelId="{8B18C13A-23F1-4898-AD51-5EC63CD568EF}" srcId="{B83C0775-8AC8-44AA-9B22-8B7921AF66AB}" destId="{D5628C9B-ACAA-43F8-B6F1-7077FCBC1924}" srcOrd="2" destOrd="0" parTransId="{EC235ADA-A75E-4E5D-B283-A7960A6E25EA}" sibTransId="{760601C2-5B53-448A-8EFC-7EA64882F577}"/>
+          <dgm:cxn modelId="{F480058B-6654-45AA-8398-C15CAE04E1F3}" type="presOf" srcId="{F7189A96-7E7A-4B9C-AB6F-EB53805BEB32}" destId="{ED248F05-7B59-4F61-BF1E-ACB7024A5C17}" srcOrd="0" destOrd="0" presId="urn:microsoft.com/office/officeart/2005/8/layout/default#1"/>
+          <dgm:cxn modelId="{3BD802CE-9239-4FA7-A20A-7AADC52CF2A4}" srcId="{B83C0775-8AC8-44AA-9B22-8B7921AF66AB}" destId="{F7189A96-7E7A-4B9C-AB6F-EB53805BEB32}" srcOrd="1" destOrd="0" parTransId="{489B2F2E-A7AA-4A1B-84C1-036110F5D8F0}" sibTransId="{102AEDB6-FF7F-41D0-AB13-AAAA39BBBC44}"/>
+          <dgm:cxn modelId="{1469598A-6C6A-4801-B3A9-8E2ED88D4E40}" type="presOf" srcId="{B83C0775-8AC8-44AA-9B22-8B7921AF66AB}" destId="{59CA557F-3BD9-43CD-A00A-BABD38B07A07}" srcOrd="0" destOrd="0" presId="urn:microsoft.com/office/officeart/2005/8/layout/default#1"/>
+          <dgm:cxn modelId="{BBD5D7F5-7A66-4C67-9FBD-C76F9B621350}" srcId="{B83C0775-8AC8-44AA-9B22-8B7921AF66AB}" destId="{F9426077-8CA6-4E1D-9402-6C169A96D94B}" srcOrd="0" destOrd="0" parTransId="{762A8656-80C6-43F4-84B3-3FFA395F45D4}" sibTransId="{C99A4757-6120-4825-A838-1D35083A5E8F}"/>
+          <dgm:cxn modelId="{8549C59F-7864-46CD-8B47-87D40D7A317D}" type="presParOf" srcId="{59CA557F-3BD9-43CD-A00A-BABD38B07A07}" destId="{0912AB0B-A2D5-4F78-855C-D681371DAD8D}" srcOrd="0" destOrd="0" presId="urn:microsoft.com/office/officeart/2005/8/layout/default#1"/>
+          <dgm:cxn modelId="{571A7FD0-A49E-499E-910E-A4DBB9AF95C5}" type="presParOf" srcId="{59CA557F-3BD9-43CD-A00A-BABD38B07A07}" destId="{86BD0573-6D2B-4161-B070-D0A4DCF405E6}" srcOrd="1" destOrd="0" presId="urn:microsoft.com/office/officeart/2005/8/layout/default#1"/>
+          <dgm:cxn modelId="{DFF93CA7-BE21-42E3-AAB5-D0015E9A94F8}" type="presParOf" srcId="{59CA557F-3BD9-43CD-A00A-BABD38B07A07}" destId="{ED248F05-7B59-4F61-BF1E-ACB7024A5C17}" srcOrd="2" destOrd="0" presId="urn:microsoft.com/office/officeart/2005/8/layout/default#1"/>
+          <dgm:cxn modelId="{D2240DEC-E959-4179-836A-5F516AC32A5E}" type="presParOf" srcId="{59CA557F-3BD9-43CD-A00A-BABD38B07A07}" destId="{EF984F55-9A40-4B63-B890-D4515FC93BEA}" srcOrd="3" destOrd="0" presId="urn:microsoft.com/office/officeart/2005/8/layout/default#1"/>
+          <dgm:cxn modelId="{07E67806-0714-4A45-AE2E-6C80FBF2E6CE}" type="presParOf" srcId="{59CA557F-3BD9-43CD-A00A-BABD38B07A07}" destId="{45333262-76AB-4ED0-927B-D2E88A8A19F8}" srcOrd="4" destOrd="0" presId="urn:microsoft.com/office/officeart/2005/8/layout/default#1"/>
+        </dgm:cxnLst>
+        <dgm:bg/>
+        <dgm:whole/>
+        <dgm:extLst>
+          <a:ext uri="http://schemas.microsoft.com/office/drawing/2008/diagram">
+            <dsp:dataModelExt relId="rId10" minVer="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram"/>
+          </a:ext>
+        </dgm:extLst>
+      </dgm:dataModel>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/_rels/document.xml.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="256">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId7" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramLayout" Target="diagrams/layout1.xml"/>
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+        <Relationship Id="rId6" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramData" Target="diagrams/data1.xml"/>
+        <Relationship Id="rId10" Type="http://schemas.microsoft.com/office/2007/relationships/diagramDrawing" Target="diagrams/drawing1.xml"/>
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/document.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
+    <pkg:xmlData>
+      <w:document xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+        <w:body>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Sample content to insert at a bound location in the document. You can use any type of rich content that you can insert into the document via OOXML, including text, tables, images, shapes, charts, diagrams, etc. This example includes styled text</w:t>
+            </w:r>
+            <w:r>
+              <w:t xml:space="preserve"> and a SmartArt diagram</w:t>
+            </w:r>
+            <w:r>
+              <w:t>.</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:noProof/>
+              </w:rPr>
+              <w:drawing>
+                <wp:inline distT="0" distB="0" distL="0" distR="0">
+                  <wp:extent cx="3429000" cy="1876425"/>
+                  <wp:effectExtent l="0" t="38100" r="0" b="85725"/>
+                  <wp:docPr id="6" name="Diagram 6"/>
+                  <wp:cNvGraphicFramePr/>
+                  <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                    <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/diagram">
+                      <dgm:relIds r:dm="rId6" r:lo="rId7" r:qs="rId8" r:cs="rId9" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"/>
+                    </a:graphicData>
+                  </a:graphic>
+                </wp:inline>
+              </w:drawing>
+            </w:r>
+          </w:p>
+        </w:body>
+      </w:document>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/diagrams/drawing1.xml" pkg:contentType="application/vnd.ms-office.drawingml.diagramDrawing+xml">
+    <pkg:xmlData>
+      <dsp:drawing xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+        <dsp:spTree>
+          <dsp:nvGrpSpPr>
+            <dsp:cNvPr id="0" name=""/>
+            <dsp:cNvGrpSpPr/>
+          </dsp:nvGrpSpPr>
+          <dsp:grpSpPr/>
+          <dsp:sp modelId="{0912AB0B-A2D5-4F78-855C-D681371DAD8D}">
+            <dsp:nvSpPr>
+              <dsp:cNvPr id="0" name=""/>
+              <dsp:cNvSpPr/>
+            </dsp:nvSpPr>
+            <dsp:spPr>
+              <a:xfrm>
+                <a:off x="199076" y="93"/>
+                <a:ext cx="1443260" cy="865956"/>
+              </a:xfrm>
+              <a:prstGeom prst="rect">
+                <a:avLst/>
+              </a:prstGeom>
+              <a:gradFill rotWithShape="0">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="accent4">
+                      <a:hueOff val="0"/>
+                      <a:satOff val="0"/>
+                      <a:lumOff val="0"/>
+                      <a:alphaOff val="0"/>
+                      <a:satMod val="103000"/>
+                      <a:lumMod val="102000"/>
+                      <a:tint val="94000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="50000">
+                    <a:schemeClr val="accent4">
+                      <a:hueOff val="0"/>
+                      <a:satOff val="0"/>
+                      <a:lumOff val="0"/>
+                      <a:alphaOff val="0"/>
+                      <a:satMod val="110000"/>
+                      <a:lumMod val="100000"/>
+                      <a:shade val="100000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="accent4">
+                      <a:hueOff val="0"/>
+                      <a:satOff val="0"/>
+                      <a:lumOff val="0"/>
+                      <a:alphaOff val="0"/>
+                      <a:lumMod val="99000"/>
+                      <a:satMod val="120000"/>
+                      <a:shade val="78000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="5400000" scaled="0"/>
+              </a:gradFill>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst>
+                <a:outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0">
+                  <a:srgbClr val="000000">
+                    <a:alpha val="63000"/>
+                  </a:srgbClr>
+                </a:outerShdw>
+              </a:effectLst>
+            </dsp:spPr>
+            <dsp:style>
+              <a:lnRef idx="0">
+                <a:scrgbClr r="0" g="0" b="0"/>
+              </a:lnRef>
+              <a:fillRef idx="3">
+                <a:scrgbClr r="0" g="0" b="0"/>
+              </a:fillRef>
+              <a:effectRef idx="3">
+                <a:scrgbClr r="0" g="0" b="0"/>
+              </a:effectRef>
+              <a:fontRef idx="minor">
+                <a:schemeClr val="lt1"/>
+              </a:fontRef>
+            </dsp:style>
+            <dsp:txBody>
+              <a:bodyPr spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="91440" rIns="91440" bIns="91440" numCol="1" spcCol="1270" anchor="ctr" anchorCtr="0">
+                <a:noAutofit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr lvl="0" algn="ctr" defTabSz="1066800">
+                  <a:lnSpc>
+                    <a:spcPct val="90000"/>
+                  </a:lnSpc>
+                  <a:spcBef>
+                    <a:spcPct val="0"/>
+                  </a:spcBef>
+                  <a:spcAft>
+                    <a:spcPct val="35000"/>
+                  </a:spcAft>
+                </a:pPr>
+                <a:r>
+                  <a:rPr lang="en-US" sz="2400" kern="1200"/>
+                  <a:t>This is a</a:t>
+                </a:r>
+              </a:p>
+            </dsp:txBody>
+            <dsp:txXfrm>
+              <a:off x="199076" y="93"/>
+              <a:ext cx="1443260" cy="865956"/>
+            </dsp:txXfrm>
+          </dsp:sp>
+          <dsp:sp modelId="{ED248F05-7B59-4F61-BF1E-ACB7024A5C17}">
+            <dsp:nvSpPr>
+              <dsp:cNvPr id="0" name=""/>
+              <dsp:cNvSpPr/>
+            </dsp:nvSpPr>
+            <dsp:spPr>
+              <a:xfrm>
+                <a:off x="1786663" y="93"/>
+                <a:ext cx="1443260" cy="865956"/>
+              </a:xfrm>
+              <a:prstGeom prst="rect">
+                <a:avLst/>
+              </a:prstGeom>
+              <a:gradFill rotWithShape="0">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="accent4">
+                      <a:hueOff val="5197846"/>
+                      <a:satOff val="-23984"/>
+                      <a:lumOff val="883"/>
+                      <a:alphaOff val="0"/>
+                      <a:satMod val="103000"/>
+                      <a:lumMod val="102000"/>
+                      <a:tint val="94000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="50000">
+                    <a:schemeClr val="accent4">
+                      <a:hueOff val="5197846"/>
+                      <a:satOff val="-23984"/>
+                      <a:lumOff val="883"/>
+                      <a:alphaOff val="0"/>
+                      <a:satMod val="110000"/>
+                      <a:lumMod val="100000"/>
+                      <a:shade val="100000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="accent4">
+                      <a:hueOff val="5197846"/>
+                      <a:satOff val="-23984"/>
+                      <a:lumOff val="883"/>
+                      <a:alphaOff val="0"/>
+                      <a:lumMod val="99000"/>
+                      <a:satMod val="120000"/>
+                      <a:shade val="78000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="5400000" scaled="0"/>
+              </a:gradFill>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst>
+                <a:outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0">
+                  <a:srgbClr val="000000">
+                    <a:alpha val="63000"/>
+                  </a:srgbClr>
+                </a:outerShdw>
+              </a:effectLst>
+            </dsp:spPr>
+            <dsp:style>
+              <a:lnRef idx="0">
+                <a:scrgbClr r="0" g="0" b="0"/>
+              </a:lnRef>
+              <a:fillRef idx="3">
+                <a:scrgbClr r="0" g="0" b="0"/>
+              </a:fillRef>
+              <a:effectRef idx="3">
+                <a:scrgbClr r="0" g="0" b="0"/>
+              </a:effectRef>
+              <a:fontRef idx="minor">
+                <a:schemeClr val="lt1"/>
+              </a:fontRef>
+            </dsp:style>
+            <dsp:txBody>
+              <a:bodyPr spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="91440" rIns="91440" bIns="91440" numCol="1" spcCol="1270" anchor="ctr" anchorCtr="0">
+                <a:noAutofit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr lvl="0" algn="ctr" defTabSz="1066800">
+                  <a:lnSpc>
+                    <a:spcPct val="90000"/>
+                  </a:lnSpc>
+                  <a:spcBef>
+                    <a:spcPct val="0"/>
+                  </a:spcBef>
+                  <a:spcAft>
+                    <a:spcPct val="35000"/>
+                  </a:spcAft>
+                </a:pPr>
+                <a:r>
+                  <a:rPr lang="en-US" sz="2400" kern="1200"/>
+                  <a:t>dynamic</a:t>
+                </a:r>
+              </a:p>
+            </dsp:txBody>
+            <dsp:txXfrm>
+              <a:off x="1786663" y="93"/>
+              <a:ext cx="1443260" cy="865956"/>
+            </dsp:txXfrm>
+          </dsp:sp>
+          <dsp:sp modelId="{45333262-76AB-4ED0-927B-D2E88A8A19F8}">
+            <dsp:nvSpPr>
+              <dsp:cNvPr id="0" name=""/>
+              <dsp:cNvSpPr/>
+            </dsp:nvSpPr>
+            <dsp:spPr>
+              <a:xfrm>
+                <a:off x="992869" y="1010375"/>
+                <a:ext cx="1443260" cy="865956"/>
+              </a:xfrm>
+              <a:prstGeom prst="rect">
+                <a:avLst/>
+              </a:prstGeom>
+              <a:gradFill rotWithShape="0">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="accent4">
+                      <a:hueOff val="10395692"/>
+                      <a:satOff val="-47968"/>
+                      <a:lumOff val="1765"/>
+                      <a:alphaOff val="0"/>
+                      <a:satMod val="103000"/>
+                      <a:lumMod val="102000"/>
+                      <a:tint val="94000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="50000">
+                    <a:schemeClr val="accent4">
+                      <a:hueOff val="10395692"/>
+                      <a:satOff val="-47968"/>
+                      <a:lumOff val="1765"/>
+                      <a:alphaOff val="0"/>
+                      <a:satMod val="110000"/>
+                      <a:lumMod val="100000"/>
+                      <a:shade val="100000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="accent4">
+                      <a:hueOff val="10395692"/>
+                      <a:satOff val="-47968"/>
+                      <a:lumOff val="1765"/>
+                      <a:alphaOff val="0"/>
+                      <a:lumMod val="99000"/>
+                      <a:satMod val="120000"/>
+                      <a:shade val="78000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="5400000" scaled="0"/>
+              </a:gradFill>
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:effectLst>
+                <a:outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0">
+                  <a:srgbClr val="000000">
+                    <a:alpha val="63000"/>
+                  </a:srgbClr>
+                </a:outerShdw>
+              </a:effectLst>
+            </dsp:spPr>
+            <dsp:style>
+              <a:lnRef idx="0">
+                <a:scrgbClr r="0" g="0" b="0"/>
+              </a:lnRef>
+              <a:fillRef idx="3">
+                <a:scrgbClr r="0" g="0" b="0"/>
+              </a:fillRef>
+              <a:effectRef idx="3">
+                <a:scrgbClr r="0" g="0" b="0"/>
+              </a:effectRef>
+              <a:fontRef idx="minor">
+                <a:schemeClr val="lt1"/>
+              </a:fontRef>
+            </dsp:style>
+            <dsp:txBody>
+              <a:bodyPr spcFirstLastPara="0" vert="horz" wrap="square" lIns="91440" tIns="91440" rIns="91440" bIns="91440" numCol="1" spcCol="1270" anchor="ctr" anchorCtr="0">
+                <a:noAutofit/>
+              </a:bodyPr>
+              <a:lstStyle/>
+              <a:p>
+                <a:pPr lvl="0" algn="ctr" defTabSz="1066800">
+                  <a:lnSpc>
+                    <a:spcPct val="90000"/>
+                  </a:lnSpc>
+                  <a:spcBef>
+                    <a:spcPct val="0"/>
+                  </a:spcBef>
+                  <a:spcAft>
+                    <a:spcPct val="35000"/>
+                  </a:spcAft>
+                </a:pPr>
+                <a:r>
+                  <a:rPr lang="en-US" sz="2400" kern="1200"/>
+                  <a:t>SmartArt diagram</a:t>
+                </a:r>
+              </a:p>
+            </dsp:txBody>
+            <dsp:txXfrm>
+              <a:off x="992869" y="1010375"/>
+              <a:ext cx="1443260" cy="865956"/>
+            </dsp:txXfrm>
+          </dsp:sp>
+        </dsp:spTree>
+      </dsp:drawing>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/diagrams/layout1.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml">
+    <pkg:xmlData>
+      <dgm:layoutDef uniqueId="urn:microsoft.com/office/officeart/2005/8/layout/default#1" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+        <dgm:title val=""/>
+        <dgm:desc val=""/>
+        <dgm:catLst>
+          <dgm:cat type="list" pri="400"/>
+        </dgm:catLst>
+        <dgm:styleData>
+          <dgm:dataModel>
+            <dgm:ptLst>
+              <dgm:pt modelId="0" type="doc"/>
+              <dgm:pt modelId="1"/>
+              <dgm:pt modelId="2"/>
+            </dgm:ptLst>
+            <dgm:cxnLst>
+              <dgm:cxn modelId="3" srcId="0" destId="1" srcOrd="0" destOrd="0"/>
+              <dgm:cxn modelId="4" srcId="0" destId="2" srcOrd="1" destOrd="0"/>
+            </dgm:cxnLst>
+            <dgm:bg/>
+            <dgm:whole/>
+          </dgm:dataModel>
+        </dgm:styleData>
+        <dgm:clrData>
+          <dgm:dataModel>
+            <dgm:ptLst>
+              <dgm:pt modelId="0" type="doc"/>
+              <dgm:pt modelId="1"/>
+              <dgm:pt modelId="2"/>
+              <dgm:pt modelId="3"/>
+              <dgm:pt modelId="4"/>
+              <dgm:pt modelId="5"/>
+              <dgm:pt modelId="6"/>
+            </dgm:ptLst>
+            <dgm:cxnLst>
+              <dgm:cxn modelId="7" srcId="0" destId="1" srcOrd="0" destOrd="0"/>
+              <dgm:cxn modelId="8" srcId="0" destId="2" srcOrd="1" destOrd="0"/>
+              <dgm:cxn modelId="9" srcId="0" destId="3" srcOrd="2" destOrd="0"/>
+              <dgm:cxn modelId="10" srcId="0" destId="4" srcOrd="3" destOrd="0"/>
+              <dgm:cxn modelId="11" srcId="0" destId="5" srcOrd="4" destOrd="0"/>
+              <dgm:cxn modelId="12" srcId="0" destId="6" srcOrd="5" destOrd="0"/>
+            </dgm:cxnLst>
+            <dgm:bg/>
+            <dgm:whole/>
+          </dgm:dataModel>
+        </dgm:clrData>
+        <dgm:layoutNode name="diagram">
+          <dgm:varLst>
+            <dgm:dir/>
+            <dgm:resizeHandles val="exact"/>
+          </dgm:varLst>
+          <dgm:choose name="Name0">
+            <dgm:if name="Name1" func="var" arg="dir" op="equ" val="norm">
+              <dgm:alg type="snake">
+                <dgm:param type="grDir" val="tL"/>
+                <dgm:param type="flowDir" val="row"/>
+                <dgm:param type="contDir" val="sameDir"/>
+                <dgm:param type="off" val="ctr"/>
+              </dgm:alg>
+            </dgm:if>
+            <dgm:else name="Name2">
+              <dgm:alg type="snake">
+                <dgm:param type="grDir" val="tR"/>
+                <dgm:param type="flowDir" val="row"/>
+                <dgm:param type="contDir" val="sameDir"/>
+                <dgm:param type="off" val="ctr"/>
+              </dgm:alg>
+            </dgm:else>
+          </dgm:choose>
+          <dgm:shape r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+            <dgm:adjLst/>
+          </dgm:shape>
+          <dgm:presOf/>
+          <dgm:constrLst>
+            <dgm:constr type="w" for="ch" forName="node" refType="w"/>
+            <dgm:constr type="h" for="ch" forName="node" refType="w" refFor="ch" refForName="node" fact="0.6"/>
+            <dgm:constr type="w" for="ch" forName="sibTrans" refType="w" refFor="ch" refForName="node" fact="0.1"/>
+            <dgm:constr type="sp" refType="w" refFor="ch" refForName="sibTrans"/>
+            <dgm:constr type="primFontSz" for="ch" forName="node" op="equ" val="65"/>
+          </dgm:constrLst>
+          <dgm:ruleLst/>
+          <dgm:forEach name="Name3" axis="ch" ptType="node">
+            <dgm:layoutNode name="node">
+              <dgm:varLst>
+                <dgm:bulletEnabled val="1"/>
+              </dgm:varLst>
+              <dgm:alg type="tx"/>
+              <dgm:shape type="rect" r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                <dgm:adjLst/>
+              </dgm:shape>
+              <dgm:presOf axis="desOrSelf" ptType="node"/>
+              <dgm:constrLst>
+                <dgm:constr type="lMarg" refType="primFontSz" fact="0.3"/>
+                <dgm:constr type="rMarg" refType="primFontSz" fact="0.3"/>
+                <dgm:constr type="tMarg" refType="primFontSz" fact="0.3"/>
+                <dgm:constr type="bMarg" refType="primFontSz" fact="0.3"/>
+              </dgm:constrLst>
+              <dgm:ruleLst>
+                <dgm:rule type="primFontSz" val="5" fact="NaN" max="NaN"/>
+              </dgm:ruleLst>
+            </dgm:layoutNode>
+            <dgm:forEach name="Name4" axis="followSib" ptType="sibTrans" cnt="1">
+              <dgm:layoutNode name="sibTrans">
+                <dgm:alg type="sp"/>
+                <dgm:shape r:blip="" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                  <dgm:adjLst/>
+                </dgm:shape>
+                <dgm:presOf/>
+                <dgm:constrLst/>
+                <dgm:ruleLst/>
+              </dgm:layoutNode>
+            </dgm:forEach>
+          </dgm:forEach>
+        </dgm:layoutNode>
+      </dgm:layoutDef>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/styles.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml">
+    <pkg:xmlData>
+      <w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+        <w:style w:type="paragraph" w:styleId="Heading1">
+          <w:name w:val="heading 1"/>
+          <w:basedOn w:val="Normal"/>
+          <w:next w:val="Normal"/>
+          <w:link w:val="Heading1Char"/>
+          <w:uiPriority w:val="9"/>
+          <w:qFormat/>
+          <w:pPr>
+            <w:keepNext/>
+            <w:keepLines/>
+            <w:spacing w:before="240" w:after="0"/>
+            <w:outlineLvl w:val="0"/>
+          </w:pPr>
+          <w:rPr>
+            <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
+            <w:color w:val="2E74B5" w:themeColor="accent1" w:themeShade="BF"/>
+            <w:sz w:val="32"/>
+            <w:szCs w:val="32"/>
+          </w:rPr>
+        </w:style>
+      </w:styles>
+    </pkg:xmlData>
+  </pkg:part>
+</pkg:package>
