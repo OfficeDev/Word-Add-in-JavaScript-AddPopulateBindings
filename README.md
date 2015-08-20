@@ -86,9 +86,10 @@ Bindings can greatly expand the options for Word add-ins. Use bindings to add co
 <a name="additional-resources"></a>
 ## Additional resources ##
 
-- [Office Add-ins](http://msdn.microsoft.com/library/office/jj220060.aspx)
+- [Office Add-ins](http://msdn.microsoft.com/library/office/jj220060.aspx) documentation on MSDN
 - [Standard ECMA-376: Office Open XML File Formats](http://www.ecma-international.org/publications/standards/Ecma-376.htm)
 - [Creating Better Word Add-ins with Office Open XML](http://msdn.microsoft.com/library/office/apps/dn423225.aspx)
+- [More Add-in samples](https://github.com/OfficeDev?utf8=%E2%9C%93&query=-Add-in)
 
 ## Copyright
 Copyright (c) 2015 Microsoft. All rights reserved.
