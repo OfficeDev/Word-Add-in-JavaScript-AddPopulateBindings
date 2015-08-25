@@ -21,7 +21,7 @@ This sample shows how to add and bind to a named rich text content control in Wo
 This sample requires the following:  
 
   - Word 2013.
-  - Visual Studio 2013 with Update 5 or Visual Studio 2015.  
+  - Visual Studio 2013 (Update 5) or Visual Studio 2015, with Microsoft Office Developer Tools.  
   - Any browser that supports ECMAScript 5.1, HTML5, and CSS3, such as Internet Explorer 9, Chrome 13, Firefox 5, Safari 5.0.6, or a later version of these browsers.
   
 
@@ -29,11 +29,11 @@ This sample requires the following:
 ## Key components of the sample
 The sample solution contains the following key files:
 
-**PopulateBindings project**
+**PopulateBindings** project
 
 - PopulateBindings.xml: The manifest file for the Word add-in.
  
-**PopulateBindingsWeb project**
+**PopulateBindingsWeb** project
 
 - App/Home/Home.html. The HTML user interface that is displayed in the task pane. It contains one button to insert a rich text content control and bind to it, and two buttons to populate the binding (with two interchangeable content options).
 - App/Home/Home.js. Logic that runs when the add-in is loaded. 
