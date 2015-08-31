@@ -39,8 +39,6 @@ The sample solution contains the following key files:
 - [App/Home/Home.js](https://github.com/OfficeDev/Word-Add-in-JavaScript-AddPopulateBindings/blob/master/PopulateBindingsWeb/App/Home/Home.js). Logic that runs when the add-in is loaded. 
 - [Snippets_BindAndPopulate folder](https://github.com/OfficeDev/Word-Add-in-JavaScript-AddPopulateBindings/tree/master/PopulateBindingsWeb/Snippets_BindAndPopulate). Contains three XML files that define the markup for the rich text content control and for the two content samples.
 
-All other files are automatically provided by the Visual Studio project template for Office Add-ins.
-
 
 <a name="codedescription"></a>
 ##Description of the code
@@ -48,15 +46,15 @@ The sample demonstrates how to:
 
 - Use the **setSelectedDataAsync** method with the **ooxml** coercion type to add a rich text content control.
 - Use the **addFromNamedItemAsync** method to bind to the control.
-- Use the **setDataAsync** method with coercion type **ooxml** to populate the binding.
+- Use the **setDataAsync** method with the **ooxml** coercion type to populate the binding.
 
 The add-in initializes in a blank Word document. The following screenshot shows the initial view of the task pane add-in.
 
    ![The initial view of the add-in with its three buttons](/images/Word_PopulateBindings_1.png)
 
-Bindings can greatly expand the options for Word add-ins. Use bindings to add content at a specified location in the document, not just only at the user's active selection point. 
+Bindings can greatly expand the options for Word add-ins. Use bindings to add content at a specified location in the document, not just at the user's active selection point. 
  In Word add-ins, rich text controls are the only type of content control you can bind to. Note that the control placeholder content must include at least one complete paragraph in order 
- to enable you to populate the binding with multi-paragraph content. See the file ContentControl.xml in the Snippets_BindAndPopulate folder in this solution to see how to structure your 
+ to enable you to populate the binding with multi-paragraph content. The file ContentControl.xml in the Snippets_BindAndPopulate folder in this solution shows how to structure your 
  content control for successful binding. To learn more about working with bindings in Word add-ins, see [Creating Better Word Add-ins with Office Open XML](http://msdn.microsoft.com/library/office/apps/dn423225.aspx).
 
 <a name="build"></a>
@@ -79,7 +77,7 @@ Bindings can greatly expand the options for Word add-ins. Use bindings to add co
 <a name="questions"></a>
 ## Questions and comments
 
-- If you have any trouble running this sample, please [log an issue](https://github.com/OfficeDev/Word-Add-in-JavaScript-AddPopulateBindings).
+- If you have any trouble running this sample, please [log an issue](https://github.com/OfficeDev/Word-Add-in-JavaScript-AddPopulateBindings/issues).
 - Questions about Office Add-ins development in general should be posted to [Stack Overflow](http://stackoverflow.com/questions/tagged/office-addins). Make sure that your questions or comments are tagged with [office-addins].
 
 
