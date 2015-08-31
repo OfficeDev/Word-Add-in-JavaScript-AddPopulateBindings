@@ -31,13 +31,13 @@ The sample solution contains the following key files:
 
 **PopulateBindings** project
 
-- PopulateBindings.xml: The manifest file for the Word add-in.
+- [PopulateBindings.xml](https://github.com/OfficeDev/Word-Add-in-JavaScript-AddPopulateBindings/blob/master/PopulateBindings/PopulateBindingsManifest/PopulateBindings.xml): The manifest file for the Word add-in.
  
 **PopulateBindingsWeb** project
 
-- App/Home/Home.html. The HTML user interface that is displayed in the task pane. It contains one button to insert a rich text content control and bind to it, and two buttons to populate the binding (with two interchangeable content options).
-- App/Home/Home.js. Logic that runs when the add-in is loaded. 
-- Snippets_BindAndPopulate folder. Contains three XML files that define the markup for the rich text content control and for the two content samples.
+- [App/Home/Home.html](https://github.com/OfficeDev/Word-Add-in-JavaScript-AddPopulateBindings/blob/master/PopulateBindingsWeb/App/Home/Home.html). The HTML user interface that is displayed in the task pane. It contains one button to insert a rich text content control and bind to it, and two buttons to populate the binding (with two interchangeable content options).
+- [App/Home/Home.js](https://github.com/OfficeDev/Word-Add-in-JavaScript-AddPopulateBindings/blob/master/PopulateBindingsWeb/App/Home/Home.js). Logic that runs when the add-in is loaded. 
+- [Snippets_BindAndPopulate folder](https://github.com/OfficeDev/Word-Add-in-JavaScript-AddPopulateBindings/tree/master/PopulateBindingsWeb/Snippets_BindAndPopulate). Contains three XML files that define the markup for the rich text content control and for the two content samples.
 
 All other files are automatically provided by the Visual Studio project template for Office Add-ins.
 
