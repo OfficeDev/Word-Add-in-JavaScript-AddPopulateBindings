@@ -25,20 +25,24 @@
 
         Office.context.document.bindings.addFromNamedItemAsync("MyContentControlTitle", "text", { id: 'myBinding' }, function (result) {
 
-            if (result.status == "failed") {
+            if (result.status === Office.AsyncResultStatus.Failed) {
 
-                if (result.error.message == "The named item does not exist.")
+                // Error 3006 message: "The named item does not exist."
+                // If the named item doesn't exist, then add and bind to it.
+                if (result.error.code === 3006) {
                     var myOOXMLRequest = new XMLHttpRequest();
-                var myXML;
-                myOOXMLRequest.open('GET', '../../Snippets_BindAndPopulate/ContentControl.xml', false);
-                myOOXMLRequest.send();
+                    var myXML;
+                    myOOXMLRequest.open('GET', '../../Snippets_BindAndPopulate/ContentControl.xml', false);
+                    myOOXMLRequest.send();
 
-                if (myOOXMLRequest.status === 200) {
-                    myXML = myOOXMLRequest.responseText;
+                    if (myOOXMLRequest.status === 200) {
+                        myXML = myOOXMLRequest.responseText;
+                    }
+                    Office.context.document.setSelectedDataAsync(myXML, { coercionType: 'ooxml' }, function (result) {
+                        Office.context.document.bindings.addFromNamedItemAsync("MyContentControlTitle", "text", { id: 'myBinding' });
+                    });
                 }
-                Office.context.document.setSelectedDataAsync(myXML, { coercionType: 'ooxml' }, function (result) {
-                    Office.context.document.bindings.addFromNamedItemAsync("MyContentControlTitle", "text", { id: 'myBinding' });
-                });
+                else app.showNotification(result.error.name + " " + result.error.code, result.error.message);
             }
         });
     }
