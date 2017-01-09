@@ -60,7 +60,8 @@ Bindings can greatly expand the options for Word add-ins. Use bindings to add co
 <a name="build"></a>
 ## Build and debug ##
 
-1. In Visual Studio, press F5 to build and deploy the solution. Word opens and displays the task pane add-in. You can optionally add content in the document.
+1. In Visual Studio, press F5 to build and deploy the solution. You can optionally add content in the document.
+2. In the **Home** ribbon, click **Open** in the **Populate Bindings** group.
 2. In the add-in, click **Add and Bind Control**. The placeholder text for the control appears in the document.
 
    ![Document showing the control's placeholder text](/images/Word_PopulateBindings_2.png)
