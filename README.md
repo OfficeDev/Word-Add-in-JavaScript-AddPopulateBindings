@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- Word
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 8/18/2015 7:35:17 PM
+---
 # Word Add-in: Add, bind to, and populate a rich text content control
 
 **Table of contents**
